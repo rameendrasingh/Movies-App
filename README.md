@@ -1,3 +1,5 @@
+Open you mobile and Scan QR code to know how this app work [View This Project Hosted ](https://expo.dev/@94510ramendra/movie-buff).
+
 # Movie-App-React-Native
 
 ![Image](https://cdn.dribbble.com/userupload/7496200/file/original-7e033af74b861badff3e2d8c31594f83.png?compress=1&resize=1024x768)
